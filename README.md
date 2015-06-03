@@ -2,10 +2,6 @@
 
 Feel free to CRUD at will!
 
-games & sports
-- ping pong, badminton, squash
-- Chess, Poker, Magic: The Gathering
-- Scrabble, Settlers, FIFA
 
 food
 - tea, coffee, orange juice
@@ -26,6 +22,11 @@ lifestyle
 - sunlight, moonlight, candle light
 - a penny saved..., it's only money..., roth IRA
 - business, pleasure, both
+
+games & sports
+- ping pong, badminton, squash
+- Chess, Poker, Magic: The Gathering
+- Scrabble, Settlers, FIFA
 
 Media
 - Beyonce, Lady Gaga, Not Applicable
