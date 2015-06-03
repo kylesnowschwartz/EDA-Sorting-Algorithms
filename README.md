@@ -1,5 +1,6 @@
 # EDA-Sorting-Algorithms
 
+Feel free to CRUD at will!
 
 games & sports
 - ping pong, badminton, squash
@@ -23,7 +24,7 @@ lifestyle
 - older sibling, younger sibling, only sibling
 - deoderant, anti-persperant, au naturel
 - sunlight, moonlight, candle light
-- a penny saved..., it's only money..., ROTH IRA
+- a penny saved..., it's only money..., roth IRA
 - business, pleasure, both
 
 Media
